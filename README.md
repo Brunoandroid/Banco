@@ -1,4 +1,4 @@
 # Banco
 Projeto Kotlin Banco
 
-Este é projeto pessoal que me auxilia no aprendizado da linguagem Kotlin e que uso para trabalhar boas práticas de código.
+Este projeto foi desenvolvido com objetivo de aprender os conceitos iniciais da linguagem Kotlin, como sua sintaxe, estruturas de controle, estrutura de dados entre outras características que a compõem.
